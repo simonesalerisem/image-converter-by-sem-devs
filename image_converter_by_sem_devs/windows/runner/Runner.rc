@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "image_converter_by_sem_devs" "\0"
+            VALUE "CompanyName", "SEM Devs" "\0"
+            VALUE "FileDescription", "ImageFlow - Image converter by sem-devs" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "image_converter_by_sem_devs" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "image_converter_by_sem_devs.exe" "\0"
-            VALUE "ProductName", "image_converter_by_sem_devs" "\0"
+            VALUE "ProductName", "ImageFlow - The Image Converter for Web People (SEM Devs)" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

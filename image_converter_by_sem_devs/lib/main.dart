@@ -289,7 +289,7 @@ class _ImageEditorPageState extends State<ImageEditorPage> {
                             },
                     ),
                     const TextSpan(
-                      text: ". Copyright ©2025. All rights reserved.",
+                      text: ". Copyright ©2025. All rights reserved. Version 1.1",
                     ),
                   ],
                 ),
