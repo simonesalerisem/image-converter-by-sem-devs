@@ -102,7 +102,7 @@ Please ensure your code adheres to the project's coding standards and includes a
 
 ## 📄 License
 
-This project is licensed under the [GPL License](https://github.com/simonesalerisem/image-converter-by-sem-devs/blob/main/LICENSE).
+This project is licensed under the [GNU License](https://github.com/simonesalerisem/image-converter-by-sem-devs/blob/main/LICENSE).
 
 ## 🙏 Acknowledgements
 
