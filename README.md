@@ -110,4 +110,4 @@ We would like to thank the Flutter community and the authors of the open-source 
 
 ---
 
-**Stay tuned for updates and new features! Follow us on [Instagram(https://www.instagram.com/sem.json/)] for the latest news.**
+**Stay tuned for updates and new features! Follow us on [Instagram](https://www.instagram.com/sem.json/) for the latest news.**
